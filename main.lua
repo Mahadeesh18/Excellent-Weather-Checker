@@ -1339,7 +1339,8 @@ windows[6] = {
     { type = "textview", text = "Mahadeesh" },
     { type = "textview", text = "Helped By:" },
     { type = "textview", text = "Moosa Zaib" },
-    { type = "textview", text = "Weather data by Open-Meteo.com. Address lookup by OpenStreetMap Nominatim." },
+    { type = "textview", text = "Special Thanks To:" },
+    { type = "textview", text = "Sujan Rai" },
     { type = "button", label = "Okay", goBackBtn = true }
   }
 }
