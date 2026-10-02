@@ -60,7 +60,7 @@ local function enableBackKey(view, onBackFn)
 end
 
 updater.config = {
-  CURRENT_VERSION = "1.0",
+  CURRENT_VERSION = "2026.10.01",
   VERSION_URL = "https://raw.githubusercontent.com/Mahadeesh18/Excellent-Weather-Checker/main/virgin.txt",
   WHATSNEW_URL = "https://raw.githubusercontent.com/Mahadeesh18/Excellent-Weather-Checker/main/what's%20new.txt",
   ZIP_URL = "https://github.com/Mahadeesh18/Excellent-Weather-Checker/archive/refs/heads/main.zip",
