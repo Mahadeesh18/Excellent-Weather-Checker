@@ -1,1 +1,1 @@
-A new bug has been discovered, and we'll have it sorted out for you right away!
+I'll completely remove the OpenWeatherMap API and instead fetch weather data for you from the Open Video Server. Does that sound okay? 😊
