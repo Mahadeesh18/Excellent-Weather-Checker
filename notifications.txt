@@ -1,1 +1,1 @@
-options removed
+If there is any bug in this plugin, please let me know immediately, and I will fix it
